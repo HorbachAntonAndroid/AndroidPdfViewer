@@ -41,4 +41,3 @@ dependencies {
     api 'com.github.barteksc:pdfium-android:1.9.0'
 }
 
-apply from: 'bintray.gradle'
